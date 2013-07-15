@@ -6,3 +6,4 @@ do (Backbone) ->
 		sync = _sync(method, entity, options)
 		if !entity._fetch and method is "read"
 			entity._fetch = sync
+		sync
