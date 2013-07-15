@@ -1,0 +1,33 @@
+<div id="header" class="navbar">
+	<div class="navbar-inner">
+		<div class="container">
+			<div class="span12">
+				<div class="row">
+					<div class="pull-left">
+						<span class="brand">Loading Views</span>
+					</div>
+					<ul class="nav pull-right">
+						<li>
+							<a href="#dashboard">
+								<i class="icon-home"></i>
+								Dashboard
+							</a>
+						</li>
+						<li>
+							<a href="#search">
+								<i class="icon-search"></i>
+								Search
+							</a>
+						</li>
+						<li>
+							<a href="#rentals">
+								<i class="icon-list-alt"></i>
+								Rentals
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

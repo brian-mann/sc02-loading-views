@@ -1,0 +1,13 @@
+<div class="pagination pull-right">
+	<ul>
+		<li class="disabled">
+			<a href="#">&laquo;</a>
+		</li>
+		<li class="active">
+			<span>1</span>
+		</li>
+		<li class="disabled">
+			<a href="#">&raquo;</a>
+		</li>
+	</ul>
+</div>

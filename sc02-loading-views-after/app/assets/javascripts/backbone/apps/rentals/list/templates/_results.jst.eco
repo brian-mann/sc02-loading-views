@@ -1,0 +1,10 @@
+<section class="lead">
+	<h3>
+		Top 'US' Rentals
+		<small class="pull-right">
+			Found 
+			<span class="badge badge-info"><%= @items.length %></span> 
+			results
+		</small>
+	</h3>
+</section>

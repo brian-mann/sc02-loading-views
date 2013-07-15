@@ -1,0 +1,13 @@
+<table class="table table-striped table-bordered">
+	<thead>
+		<tr>
+			<th></th>
+			<th>Title</th>
+			<th>Released</th>
+			<th>Rating</th>
+			<th>Runtime</th>
+			<th>Score</th>
+		</tr>
+	</thead>
+	<tbody></tbody>
+</table>

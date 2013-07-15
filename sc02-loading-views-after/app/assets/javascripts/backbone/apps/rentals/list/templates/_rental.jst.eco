@@ -1,0 +1,12 @@
+<td>
+	<% if @posters: %>
+		<div class="thumbnail">
+			<img src="<%= @posters.thumbnail %>" />
+		</div>
+	<% end %>
+</td>
+<td><%= @title %></td>
+<td><%= @year %></td>
+<td><%= @mpaa_rating %></td>
+<td><%= @runtime %> minutes</td>
+<td><%= @ratings.critics_score %></td>

@@ -1,0 +1,7 @@
+<div class="span12">
+	<div class="row">
+		<div id="results-region"></div>
+		<div id="rentals-region"></div>
+		<div id="pagination-region"></div>
+	</div>
+</div>

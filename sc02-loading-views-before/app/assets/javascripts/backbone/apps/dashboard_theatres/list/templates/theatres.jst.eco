@@ -1,0 +1,11 @@
+<table class="table table-striped table-bordered">
+	<thead>
+		<tr>
+			<th></th>
+			<th>Title</th>
+			<th>Rating</th>
+			<th>Score</th>
+		</tr>
+	</thead>
+	<tbody></tbody>
+</table>

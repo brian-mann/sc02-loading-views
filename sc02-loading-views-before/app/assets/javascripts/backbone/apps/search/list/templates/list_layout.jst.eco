@@ -1,0 +1,6 @@
+<div class="span12">
+	<div class="row">
+		<div id="panel-region"></div>
+		<div id="movies-region"></div>
+	</div>
+</div>
